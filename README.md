@@ -8,4 +8,4 @@ Our main model is in folder Model, which includes data processing, embedding, Lo
 
 The Data Analysis and Data Collection Folders contain notebooks for exploratory data analysis from raw data and some data collection techniques.
 
-
+Please refer to our poster and project report for more information. 
